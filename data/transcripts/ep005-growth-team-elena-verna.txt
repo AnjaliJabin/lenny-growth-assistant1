@@ -1,0 +1,43 @@
+Lenny's Podcast - Episode: Building a Growth Team
+Guest: Elena Verna (Amplitude, Miro, SurveyMonkey)
+Date: 2022-02-08
+
+Lenny: Elena Verna has led growth at SurveyMonkey, Miro, and Amplitude. She's one of the most respected growth leaders in the industry. Elena, how do you think about structuring a growth team?
+
+Elena: The first question is whether you need a growth team at all. Growth teams make sense when you have product-market fit and a product that can grow through product-led motions. If you're still searching for PMF, a growth team is premature. You need a product team.
+
+Lenny: Assuming you have PMF, how do you structure growth?
+
+Elena: I think about growth in three phases. Phase one is growth as a function—one or two people embedded in product, focused on a specific metric like activation or retention. Phase two is growth as a team—a dedicated team with its own roadmap, working across the funnel. Phase three is growth as a culture—every team thinks about growth, not just the growth team.
+
+Lenny: What's the most important metric for a growth team to own?
+
+Elena: It depends on the stage. Early stage: activation. You need to get users to value fast. Mid stage: retention. You need users to stick. Late stage: expansion. You need users to grow their usage and spend. The mistake is jumping to acquisition before you've solved activation and retention. Acquisition without retention is a leaky bucket.
+
+Lenny: How do you run growth experiments?
+
+Elena: The key is velocity. You want to run as many experiments as possible per week. At Miro, we ran 20-30 experiments per week at peak. Most failed. But the ones that worked compounded. The formula is: more experiments × better hypotheses = faster growth. Most teams run too few experiments because they're afraid of failure. Failure is the point.
+
+Lenny: How do you prioritize which experiments to run?
+
+Elena: I use a simple framework: ICE scoring. Impact—how much will this move the metric if it works? Confidence—how confident are we it will work? Ease—how hard is it to build? Score each on a 1-10 scale, multiply them, rank the list. Run the highest-scoring experiments first. It's not perfect, but it forces explicit prioritization.
+
+Lenny: What's the relationship between growth and product?
+
+Elena: Growth and product should be deeply integrated. The worst growth teams I've seen operate like a separate company—they run experiments that conflict with the product roadmap, they optimize metrics that don't align with the product vision. The best growth teams I've seen are extensions of the product team. They share goals, share data, and collaborate on every major decision.
+
+Lenny: What about the relationship between growth and marketing?
+
+Elena: Marketing owns brand and demand generation. Growth owns the product funnel. They should share data and coordinate on messaging, but they have different jobs. The confusion happens when companies try to make growth do marketing's job or vice versa. Keep the responsibilities clear.
+
+Lenny: What's the biggest mistake growth teams make?
+
+Elena: Optimizing for the wrong metric. I've seen teams hit their activation target by making signup easier—but the users who signed up were lower quality and churned faster. The metric went up, the business went down. Always connect your growth metric to a business outcome. If you can't draw a line from your metric to revenue, you're optimizing the wrong thing.
+
+Lenny: Any advice for someone building their first growth team?
+
+Elena: Hire for curiosity and analytical rigor, not for growth hacks. The best growth people I've worked with are obsessed with understanding why things work, not just what works. They build systems, not tricks. And they're comfortable with ambiguity—growth is inherently uncertain. If someone needs a clear playbook to operate, they're not a growth person.
+
+Lenny: What's the future of growth?
+
+Elena: Product-led growth is becoming the default for B2B SaaS. The era of pure sales-led growth is ending. Users want to try before they buy. They want to experience value before talking to a salesperson. Companies that build product-led motions will win. Companies that rely entirely on sales will struggle to compete on cost and speed.

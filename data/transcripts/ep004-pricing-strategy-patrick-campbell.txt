@@ -1,0 +1,43 @@
+Lenny's Podcast - Episode: Pricing Strategy for SaaS
+Guest: Patrick Campbell (ProfitWell)
+Date: 2021-09-14
+
+Lenny: Patrick Campbell is the founder of ProfitWell, which was acquired by Paddle. He's analyzed pricing data from thousands of SaaS companies. Patrick, what's the most common pricing mistake?
+
+Patrick: Underpricing. By a wide margin. Most SaaS founders price based on their costs or what they think sounds reasonable, not on the value they deliver. The result is they leave 30-50% of revenue on the table from day one.
+
+Lenny: How should founders think about pricing?
+
+Patrick: Value-based pricing. Start by understanding what your product is worth to the customer, not what it costs you to build. Ask customers: "What would you pay for this?" Then ask: "At what price would this be too expensive?" And: "At what price would you question the quality?" The overlap of those answers is your pricing sweet spot.
+
+Lenny: What's the Van Westendorp method?
+
+Patrick: It's a four-question survey that maps price sensitivity. The four questions are: At what price is this too cheap to trust? At what price is this a bargain? At what price is this getting expensive? At what price is this too expensive? Plot the answers on a graph and you get an acceptable price range. It's not perfect, but it's far better than guessing.
+
+Lenny: How often should companies revisit pricing?
+
+Patrick: At least once a year. Most companies set pricing at launch and never touch it. But your product improves, your customers change, your competition changes. Pricing should evolve with all of that. The companies that grow fastest treat pricing as a product feature, not a one-time decision.
+
+Lenny: What about pricing tiers?
+
+Patrick: Three tiers is the sweet spot for most SaaS. A low tier for individuals or small teams, a mid tier for growing teams, and an enterprise tier. The mid tier should be your target—price it to capture the most value. The low tier exists to get users in the door. The enterprise tier exists to capture large customers who need custom features.
+
+Lenny: What's the psychology behind pricing tiers?
+
+Patrick: Anchoring. When users see three tiers, they anchor to the middle. The high tier makes the middle look reasonable. The low tier makes the middle look like a good deal. This is why you almost never want just one price point—you lose the anchoring effect.
+
+Lenny: What about freemium?
+
+Patrick: Freemium works when the free tier creates genuine value and has a natural upgrade trigger. Slack's free tier limits message history. Zoom's free tier limits meeting length. Those limits are felt at the exact moment users are getting value, which makes upgrading feel natural. Bad freemium gives away too much—users never need to upgrade. Or too little—users never experience value.
+
+Lenny: How do you know if your pricing is working?
+
+Patrick: Three signals. First, conversion rate from trial to paid. If it's below 15%, your pricing or product has a problem. Second, expansion revenue. If customers aren't upgrading over time, you're not capturing value as they grow. Third, churn by tier. If your lowest tier churns at 5% monthly and your highest tier churns at 0.5%, you're pricing the low tier too low—you're attracting the wrong customers.
+
+Lenny: Any advice on annual vs monthly pricing?
+
+Patrick: Always offer annual. Annual pricing reduces churn by 30-40% because customers don't make a monthly decision to stay. Offer a 15-20% discount for annual. Most customers who are serious about your product will take it. The ones who won't are often the ones who churn anyway.
+
+Lenny: What's your single most important pricing advice?
+
+Patrick: Talk to your customers about price. Most founders avoid the conversation because it's uncomfortable. But customers will tell you exactly what they'd pay if you ask the right questions. The data is sitting there. You just have to collect it.

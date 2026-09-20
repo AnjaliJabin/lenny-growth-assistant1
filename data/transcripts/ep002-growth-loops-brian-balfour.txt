@@ -1,0 +1,43 @@
+Lenny's Podcast - Episode: Growth Loops vs Funnels
+Guest: Brian Balfour (Reforge)
+Date: 2020-03-10
+
+Lenny: Brian Balfour is the founder of Reforge and former VP of Growth at HubSpot. Brian, you've been one of the loudest voices saying that funnels are dead. Make the case.
+
+Brian: Funnels are a useful mental model for understanding a single user journey, but they're terrible for understanding how a product grows. A funnel is linear: acquire, activate, retain, revenue, referral. It implies growth is a one-way street. But the best products don't grow linearly—they grow in loops.
+
+Lenny: Define a growth loop.
+
+Brian: A growth loop is a closed system where the output of one cycle becomes the input of the next. The classic example is Dropbox. A user signs up, uses Dropbox, shares a file with a friend, that friend signs up, uses Dropbox, shares with another friend. Each cycle produces more users than it consumes. That's a loop. The funnel would just show you acquisition → activation → retention. It misses the compounding mechanism entirely.
+
+Lenny: What are the main types of growth loops?
+
+Brian: I categorize them into four types. First, viral loops—users invite other users directly. Second, content loops—users create content that attracts new users through SEO or social. Third, paid loops—revenue from users funds acquisition of more users. Fourth, product loops—the product itself gets better as more people use it, which attracts more users. Network effects are a type of product loop.
+
+Lenny: Which loop is most powerful?
+
+Brian: It depends on your business. But the most defensible loops are product loops, because they're hardest to copy. If your product gets better with more users—like Waze with traffic data, or Airbnb with supply and demand—competitors can't just outspend you. They have to rebuild the loop from scratch.
+
+Lenny: How do you identify which loop to build?
+
+Brian: Start with your best users. Ask: how did they find you? What made them stay? What made them tell others? The answers usually reveal a loop that's already working weakly. Your job is to identify it, measure it, and amplify it.
+
+Lenny: What metrics do you use to measure a loop?
+
+Brian: For each loop, you want to measure the loop coefficient—how many new users does one existing user generate per cycle? If the coefficient is above 1, the loop is compounding. Below 1, it's still valuable but not viral. You also want to measure cycle time—how long does one loop take? A loop with a coefficient of 0.8 but a 1-day cycle time can outperform a loop with a coefficient of 1.2 and a 30-day cycle time.
+
+Lenny: Can you have multiple loops?
+
+Brian: Yes, and the best companies do. Notion has a content loop (users share templates publicly, which drives SEO), a viral loop (users invite teammates), and a product loop (the product gets more useful as more of your team uses it). Each loop reinforces the others. That's why Notion grew so fast without paid acquisition.
+
+Lenny: What's the most common mistake companies make with growth loops?
+
+Brian: Trying to build too many loops at once. Pick one loop, make it work, measure it obsessively, then add a second. Most companies that fail at growth loops fail because they spread attention across five loops and none of them compound.
+
+Lenny: Any advice for early-stage founders?
+
+Brian: Don't think about growth loops until you have product-market fit. Loops amplify what's already working. If your product doesn't retain users, a viral loop just accelerates churn. Get retention first. Then build the loop.
+
+Lenny: What's the relationship between loops and retention?
+
+Brian: Retention is the foundation. Without retention, no loop works. With strong retention, even a weak loop compounds over time. The formula is simple: retention × loop coefficient = sustainable growth. Optimize retention first, then optimize the loop.

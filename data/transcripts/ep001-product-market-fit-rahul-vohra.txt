@@ -1,0 +1,43 @@
+Lenny's Podcast - Episode: How to Find Product-Market Fit
+Guest: Rahul Vohra (Superhuman)
+Date: 2019-06-15
+
+Lenny: Today I'm talking with Rahul Vohra, founder and CEO of Superhuman, about how he found product-market fit. Rahul, you've written one of the most-read essays on product-market fit. Can you walk us through the framework?
+
+Rahul: Absolutely. The core insight is that product-market fit is not binary—it's a spectrum. Most founders treat it like a switch: either you have it or you don't. But that's wrong. You can measure it, and more importantly, you can systematically improve it.
+
+Lenny: How do you measure it?
+
+Rahul: We use a single survey question: "How would you feel if you could no longer use this product?" The answer choices are: very disappointed, somewhat disappointed, not disappointed. If 40% or more of your users say "very disappointed," you have product-market fit. Below 40%, you don't—yet.
+
+Lenny: Where does the 40% number come from?
+
+Rahul: Sean Ellis discovered it empirically. He surveyed hundreds of startups and found that companies that struggled to grow almost always had fewer than 40% "very disappointed" responses. Companies that grew well almost always exceeded 40%. It's not a perfect threshold, but it's a useful signal.
+
+Lenny: What do you do with the survey results beyond the headline number?
+
+Rahul: The real gold is in the qualitative responses. You ask two follow-up questions: "What is the main benefit you receive from this product?" and "What type of person do you think would most benefit from this product?" The answers tell you who your high-expectation customers are and what they love most. You double down on that.
+
+Lenny: Can you give a concrete example from Superhuman?
+
+Rahul: When we ran the survey, our score was 22%—well below 40%. But when we segmented the "very disappointed" users, we found they were all high-volume email users, mostly founders and executives. They loved the speed. So we made a deliberate choice: ignore the users who wouldn't be disappointed. Focus entirely on the segment that would be. We redesigned the product around speed for power users. Six months later, our score was 58%.
+
+Lenny: That's a dramatic improvement. What's the key lesson?
+
+Rahul: Don't try to make everyone happy. Find the people who love you and make them love you even more. The biggest mistake founders make is trying to improve their score by converting the "not disappointed" users. That's a trap. Those users will dilute your product. Instead, find your superfans and build for them.
+
+Lenny: What about the people who say "somewhat disappointed"?
+
+Rahul: They're interesting. Read their responses carefully. Some of them are close to being superfans—they just have one or two unmet needs. If those needs align with what your superfans want, fix them. If they don't, ignore them.
+
+Lenny: Any other metrics you track alongside this?
+
+Rahul: Retention is the ultimate validator. If you have product-market fit, your retention curve flattens. Users stick around. If it keeps declining, you don't have it yet, regardless of what your survey says. The survey is a leading indicator; retention is the lagging confirmation.
+
+Lenny: What's the biggest misconception about product-market fit?
+
+Rahul: That it's permanent. Markets change, competitors emerge, user expectations evolve. Superhuman had strong PMF in 2019. We have to keep earning it. The companies that lose their way are the ones that think they've "achieved" PMF and stop listening to customers.
+
+Lenny: Last question: what's your advice for founders who are stuck below 40%?
+
+Rahul: Run the survey. Segment ruthlessly. Find your superfans. Talk to them every week. Build what they need. Ignore everyone else until your score crosses 40%. Then you can expand. But don't expand before you have a core that loves you.

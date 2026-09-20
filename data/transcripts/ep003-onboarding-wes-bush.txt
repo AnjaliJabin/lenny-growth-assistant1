@@ -1,0 +1,43 @@
+Lenny's Podcast - Episode: The Science of User Onboarding
+Guest: Wes Bush (ProductLed)
+Date: 2021-05-20
+
+Lenny: Wes Bush wrote the book on product-led growth. Today we're talking about onboarding—the make-or-break moment for any SaaS product. Wes, why do most onboarding flows fail?
+
+Wes: Most onboarding flows fail because they're designed around what the company wants to show users, not what users need to experience to get value. Companies build feature tours. They show users every button and menu. But users don't care about features. They care about outcomes. The question every onboarding flow should answer is: how quickly can I get this user to their first meaningful success?
+
+Lenny: What do you mean by "meaningful success"?
+
+Wes: I call it the "aha moment"—the moment when the user first experiences the core value of your product. For Slack, it's sending a message and getting a reply. For Dropbox, it's seeing a file sync across devices. For Superhuman, it's sending an email in under 4 seconds. Every product has one. Your job is to find it and get users there as fast as possible.
+
+Lenny: How do you find your aha moment?
+
+Wes: Look at your retained users—the ones who've been with you for 90+ days. What did they do in their first week that churned users didn't? That action is usually your aha moment. At HubSpot, they found that users who connected their email in the first session retained at 3x the rate of those who didn't. That became the north star for onboarding.
+
+Lenny: What's the biggest onboarding mistake you see?
+
+Wes: Asking for too much before delivering value. Signup forms with 10 fields. Mandatory credit card before trial. Forced product tours before the user can do anything. Every friction point before the aha moment is a leak in your funnel. Audit every step: does this help the user get to value faster, or does it serve the company's needs? If it's the latter, cut it.
+
+Lenny: What about personalization in onboarding?
+
+Wes: Personalization is powerful but often over-engineered. The simplest version is a single question at signup: "What's your main goal?" Use the answer to route users to the right starting point. Calendly asks if you're an individual or a team. Notion asks what you want to use it for. That one question can double activation rates.
+
+Lenny: How do you measure onboarding success?
+
+Wes: Three metrics. First, time-to-value: how long does it take the average user to reach the aha moment? Second, activation rate: what percentage of signups reach the aha moment within 7 days? Third, activation-to-retention correlation: do users who activate retain at higher rates? If the answer to the third question is yes, you've found the right aha moment.
+
+Lenny: What's a good activation rate?
+
+Wes: It varies by product, but as a rough benchmark: below 20% is a red flag, 20-40% is average, above 40% is strong. The best products I've seen hit 60-70%. But the number matters less than the trend. If you're improving week over week, you're on the right track.
+
+Lenny: Any tactical advice for improving onboarding quickly?
+
+Wes: Three things. One, watch session recordings of new users. You'll see exactly where they get confused. Two, add a progress indicator. Users who can see how close they are to completing setup are 30% more likely to finish. Three, send a single email 24 hours after signup to users who haven't activated. Subject line: "Did you get stuck?" That email alone can recover 10-15% of churned signups.
+
+Lenny: What's the relationship between onboarding and pricing?
+
+Wes: Huge. If your pricing is confusing, users won't know what they're signing up for, and onboarding will fail. The best product-led companies align their free tier with the aha moment. Give users enough to experience value for free, then charge for the next level. Freemium works when the free tier is genuinely useful, not crippled.
+
+Lenny: Last question: what's the one thing most companies should do differently in onboarding?
+
+Wes: Stop thinking about onboarding as a one-time event. Onboarding is ongoing. The first session gets users to the aha moment. The first week gets them to a habit. The first month gets them to a workflow. Design for all three phases, not just the first login.
